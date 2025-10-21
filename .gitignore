@@ -1,0 +1,22 @@
+# Python / backend
+__pycache__/
+*.pyc
+instance/
+.env
+venv/
+.mypy_cache/
+.migrations/
+*.db
+
+# Node / frontend
+node_modules/
+dist/
+npm-debug.log
+.DS_Store
+
+# Docker
+*.log
+*.pid
+
+# OS
+Thumbs.db
