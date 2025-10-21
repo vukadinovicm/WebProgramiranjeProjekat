@@ -2,7 +2,6 @@
 __pycache__/
 *.pyc
 instance/
-.env
 venv/
 .mypy_cache/
 .migrations/
